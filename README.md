@@ -1,3 +1,5 @@
+![image](https://github.com/Bernardosjfk/bernardjuma/assets/139352235/6a33f943-e5d6-44ea-8db8-17276bbbc791)
+
 - 👋 Hi, I’m Bernard Juma
 - 👀 I’m interested in getting hands-on experience in software engineering and software development
 - 🌱 I’m currently learning how to be a software engineer.
