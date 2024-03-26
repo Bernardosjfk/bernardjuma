@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate and learn in all projects dealing with software engineering
 - 🌱 I'm open to new challenges and new opportunities.
 - 🌱 I'm ready to learn new concepts and ideas on software development.
-- 📫 You can contact me via email at: bernardosjfk@yahoo.co.uk
+- 📫 You can contact me via email at: bernardosjfk@yahoo.co.uk or bernardosjfk@gmail.com
 
 <!---
 Bernardosjfk/Bernardosjfk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
